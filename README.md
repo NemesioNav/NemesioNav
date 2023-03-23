@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NemesioNav
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning Algorithms and AI for Data Science
-- 💞️ I’m looking to collaborate on any project related on Data Science
-- 📫 How to reach me nemesio.navarroa@gmail.com
+- Hi, I’m @NemesioNav
+- I’m interested in Data Science
+- I’m currently learning Machine Learning Algorithms and AI for Data Science
+- I’m looking to collaborate on any project related on Data Science
+- How to reach me nemesio.navarroa@gmail.com
